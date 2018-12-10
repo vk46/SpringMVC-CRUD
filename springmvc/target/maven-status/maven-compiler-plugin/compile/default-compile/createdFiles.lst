@@ -1,0 +1,14 @@
+com\vk\repository\UserRespository.class
+com\vk\exception\VKException.class
+com\vk\service\UserService.class
+com\vk\controller\UserRestController.class
+com\vk\util\ObjectMapper.class
+com\vk\config\AppInitializer.class
+com\vk\dto\BaseDTO.class
+com\vk\enumerator\Status.class
+com\vk\entity\BaseEntity.class
+com\vk\enumerator\Salutations.class
+com\vk\entity\UserEntity.class
+com\vk\impl\UserServiceImpl.class
+com\vk\config\AppConfig.class
+com\vk\dto\UserDTO.class

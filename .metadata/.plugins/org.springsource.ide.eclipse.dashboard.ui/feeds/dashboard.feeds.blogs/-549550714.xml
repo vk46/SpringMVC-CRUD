@@ -5,7 +5,33 @@
   <link rel="self" href="https://spring.io/blog.atom" />
   <id>http://spring.io/blog.atom</id>
   <icon>https://spring.io/favicon.ico</icon>
-  <updated>2018-12-07T16:04:00Z</updated>
+  <updated>2018-12-10T14:24:26Z</updated>
+  <entry>
+    <title>Spring REST Docs 2.0.3.RELEASE</title>
+    <link rel="alternate" href="https://spring.io/blog/2018/12/10/spring-rest-docs-2-0-3-release" />
+    <category term="releases" label="Releases" />
+    <author>
+      <name>Andy Wilkinson</name>
+    </author>
+    <id>tag:spring.io,2018-12-10:3492</id>
+    <updated>2018-12-10T14:24:26Z</updated>
+    <content type="html">&lt;p&gt;It&amp;rsquo;s my pleasure to announce that &lt;a href="https://spring.io/projects/spring-restdocs"&gt;Spring REST Docs&lt;/a&gt; 2.0.3.RELEASE is available from Maven Central, JCenter, and our &lt;a href="https://repo.spring.io/release"&gt;release repository&lt;/a&gt;. My thanks to everyone who contributed to this release by reporting bugs and opening pull requests.&lt;/p&gt;
+&lt;p&gt;This maintenance release includes a &lt;a href="https://github.com/spring-projects/spring-restdocs/milestone/26?closed=1"&gt;small number of fixes and documentation improvements&lt;/a&gt;. It is a recommend upgrade for all Spring REST Docs 2.x users. &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/spring-projects/spring-restdocs"&gt;GitHub&lt;/a&gt; | &lt;a href="https://github.com/spring-projects/spring-restdocs/issues"&gt;Issues&lt;/a&gt; | &lt;a href="http://docs.spring.io/spring-restdocs/docs/2.0.3.RELEASE"&gt;Documentation&lt;/a&gt; | &lt;a href="https://twitter.com/springrestdocs"&gt;Twitter&lt;/a&gt; | &lt;a href="https://gitter.im/spring-projects/spring-restdocs"&gt;Gitter&lt;/a&gt; | &lt;a href="https://stackoverflow.com/tags/spring-restdocs"&gt;Stack Overflow&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Spring REST Docs 1.2.6.RELEASE</title>
+    <link rel="alternate" href="https://spring.io/blog/2018/12/10/spring-rest-docs-1-2-6-release" />
+    <category term="releases" label="Releases" />
+    <author>
+      <name>Andy Wilkinson</name>
+    </author>
+    <id>tag:spring.io,2018-12-10:3491</id>
+    <updated>2018-12-10T13:17:00Z</updated>
+    <content type="html">&lt;p&gt;It&amp;rsquo;s my pleasure to announce that &lt;a href="https://spring.io/projects/spring-restdocs"&gt;Spring REST Docs&lt;/a&gt; 1.2.6.RELEASE is available from Maven Central, JCenter, and our &lt;a href="https://repo.spring.io/release"&gt;release repository&lt;/a&gt;. My thanks to everyone who contributed to this release by reporting bugs and opening pull requests.&lt;/p&gt;
+&lt;p&gt;This maintenance release includes a &lt;a href="https://github.com/spring-projects/spring-restdocs/milestone/25?closed=1"&gt;handful of bug fixes and documentation improvements&lt;/a&gt;. It is a recommend upgrade for all Spring REST Docs 1.x users. &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/spring-projects/spring-restdocs"&gt;GitHub&lt;/a&gt; | &lt;a href="https://github.com/spring-projects/spring-restdocs/issues"&gt;Issues&lt;/a&gt; | &lt;a href="http://docs.spring.io/spring-restdocs/docs/1.2.6.RELEASE"&gt;Documentation&lt;/a&gt; | &lt;a href="https://twitter.com/springrestdocs"&gt;Twitter&lt;/a&gt; | &lt;a href="https://gitter.im/spring-projects/spring-restdocs"&gt;Gitter&lt;/a&gt; | &lt;a href="https://stackoverflow.com/tags/spring-restdocs"&gt;Stack Overflow&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Reactive Programming and Relational Databases</title>
     <link rel="alternate" href="https://spring.io/blog/2018/12/07/reactive-programming-and-relational-databases" />
@@ -749,60 +775,5 @@ dependencies {&#xD;
 &lt;p&gt;As a follow up to 2.0.0.RC1, this release primarily encompasses minor enhancements and bug fixes.&lt;br/&gt;As it stands now this should be the final Release Candidate before General Availability release 2.0.0.RELEASE in several weeks.&lt;/p&gt;&lt;h3&gt;&lt;a href="#how-can-you-help" class="anchor" name="how-can-you-help"&gt;&lt;/a&gt;How can you help?&lt;/h3&gt;
 &lt;p&gt;If you&amp;rsquo;re interested in helping out, check out the &lt;a href="https://github.com/spring-cloud/spring-cloud-function/labels/ideal-for-contribution"&gt;&amp;ldquo;ideal for contribution&amp;rdquo; tag&lt;/a&gt; in the issue repository. If you have general questions, please ask on &lt;a href="http://stackoverflow.com"&gt;stackoverflow.com&lt;/a&gt; using the &lt;a href="http://stackoverflow.com/tags/spring-cloud-function"&gt;&lt;code&gt;spring-cloud-function&lt;/code&gt; tag&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://cloud.spring.io/spring-cloud-function/"&gt;Project Page&lt;/a&gt; | &lt;a href="https://github.com/spring-cloud/spring-cloud-function"&gt;GitHub&lt;/a&gt; | &lt;a href="https://github.com/spring-cloud/spring-cloud-function/issues"&gt;Issues&lt;/a&gt; | &lt;a href="http://cloud.spring.io/spring-cloud-static/spring-cloud-function/2.0.0.RC2/"&gt;Documentation&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Spring Session 1.3.4 Released</title>
-    <link rel="alternate" href="https://spring.io/blog/2018/11/15/spring-session-1-3-4-released" />
-    <category term="releases" label="Releases" />
-    <author>
-      <name>Rob Winch</name>
-    </author>
-    <id>tag:spring.io,2018-11-15:3472</id>
-    <updated>2018-11-15T19:33:37Z</updated>
-    <content type="html">&lt;div class="paragraph"&gt;
-&lt;p&gt;&lt;em&gt;This post was authored by &lt;a href="https://github.com/vpavic"&gt;Vedran Pavi?&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="paragraph"&gt;
-&lt;p&gt;On behalf of the community I&amp;#8217;m pleased to announce the release of &lt;a href="https://docs.spring.io/spring-session/docs/1.3.4.RELEASE/reference/html5/"&gt;Spring Session 1.3.4.RELEASE&lt;/a&gt;. This maintenance release contains several bug fixes and performance improvements. You can find the complete details of the release in the &lt;a href="https://github.com/spring-projects/spring-session/milestone/36?closed=1"&gt;changelog&lt;/a&gt;.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="paragraph"&gt;
-&lt;p&gt;&lt;a href="https://projects.spring.io/spring-session/"&gt;Project Page&lt;/a&gt; | &lt;a href="https://docs.spring.io/spring-session/docs/1.3.4.RELEASE/reference/html5/"&gt;Documentation&lt;/a&gt; | &lt;a href="https://github.com/spring-projects/spring-session/issues"&gt;Issues&lt;/a&gt; | &lt;a href="https://gitter.im/spring-projects/spring-session"&gt;Gitter&lt;/a&gt; | &lt;a href="https://stackoverflow.com/questions/tagged/spring-session"&gt;Stack Overflow&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>Spring Vault 2.1.1, 2.0.3, and 1.1.3 released</title>
-    <link rel="alternate" href="https://spring.io/blog/2018/11/14/spring-vault-2-1-1-2-0-3-and-1-1-3-released" />
-    <category term="releases" label="Releases" />
-    <author>
-      <name>Mark Paluch</name>
-    </author>
-    <id>tag:spring.io,2018-11-14:3471</id>
-    <updated>2018-11-14T15:32:00Z</updated>
-    <content type="html">&lt;div class="paragraph"&gt;
-&lt;p&gt;On behalf of the community, I&amp;#8217;d like to announce the availability of Spring Vault service releases 2.1.1, 2.0.3, and 1.1.3, available from Maven Central.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="paragraph"&gt;
-&lt;p&gt;These releases ship with bug fixes and dependency version updates. Spring Vault 2.1.1 is going to be picked up by Spring Cloud Vault with the Spring Cloud Greenwich M2 release in the next days.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="paragraph"&gt;
-&lt;p&gt;For a complete list of changes see the changelogs:&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="ulist"&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href="http://docs.spring.io/spring-vault/docs/2.1.1.RELEASE/changelog.txt"&gt;Spring Vault 2.1.1 RELEASE&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href="http://docs.spring.io/spring-vault/docs/2.0.3.RELEASE/changelog.txt"&gt;Spring Vault  2.0.3 RELEASE&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href="http://docs.spring.io/spring-vault/docs/1.1.3.RELEASE/changelog.txt"&gt;Spring Vault
-1.1.3 RELEASE&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-&lt;div class="paragraph"&gt;
-&lt;p&gt;&lt;a href="http://projects.spring.io/spring-vault/"&gt;Project Page&lt;/a&gt; | &lt;a href="https://github.com/spring-projects/spring-vault"&gt;GitHub&lt;/a&gt; | &lt;a href="https://github.com/spring-projects/spring-vault/issues"&gt;Issues&lt;/a&gt; | &lt;a href="http://docs.spring.io/spring-vault/docs/2.1.1.RELEASE/reference/html/"&gt;Documentation for 2.1.1.RELEASE&lt;/a&gt; | &lt;a href="http://docs.spring.io/spring-vault/docs/2.0.3.RELEASE/reference/html/"&gt;Documentation for 2.0.3.RELEASE&lt;/a&gt; | &lt;a href="http://docs.spring.io/spring-vault/docs/1.1.3.RELEASE/reference/html/"&gt;Documentation for 1.1.3.RELEASE&lt;/a&gt; | &lt;a href="http://stackoverflow.com/questions/tagged/spring-vault"&gt;Stack Overflow&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</content>
   </entry>
 </feed>
