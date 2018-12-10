@@ -1,4 +1,5 @@
 ### SpringMVC_CRUD
+Spring MVC is the Spring framework's traditional library for building Java web applications. It is one of the most popular web frameworks for building fully functional Java web applications and RESTful web services.
 
 What is REST? REST stands for Representational State Transfer, which is an architecture style for designing distributed systems. A web service based on the REST architecture is referred as RESTful web services.
 
