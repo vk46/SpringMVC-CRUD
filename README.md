@@ -15,3 +15,4 @@ RESTful service uses the following HTTP methods to map the HTTP request to CRUD 
 * Maven 3.5.1
 * Spring Tool Suite™ 3.9.6.RELEASE
 * Apache Tomcat 7.0.72
+* Postman 6.5.3
