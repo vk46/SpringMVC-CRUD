@@ -5,7 +5,7 @@ What is REST? REST stands for Representational State Transfer, which is an archi
 
 CRUD stands for Create, Read, Update and Delete, which refers to the four operations on persistence storage.  
 
-RESTful service uses the following HTTP methods to map the HTTP request to CRUD operations.
+RESTful service uses the POST and GET (Mostly Used)  HTTP methods to map the HTTP request to CRUD operations.
 
 ### Tools and Technologies Used for this Application
 * Spring Web MVC 4.3.1.RELEASE
