@@ -10,7 +10,7 @@ RESTful service uses the POST and GET (Mostly Used)  HTTP methods to map the HTT
 ### Tools and Technologies Used for this Application
 * Spring Web MVC 4.3.1.RELEASE
 * Java SE 1.8
-* Jackson API 2.8.11.1
+* Jackson API 2.8.11
 * Hibernate 4.3.8.Final
 * MySQL 5.1.27    
 * Maven 3.5.1
