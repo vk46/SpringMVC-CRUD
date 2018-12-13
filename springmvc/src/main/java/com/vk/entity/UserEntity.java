@@ -44,7 +44,7 @@ public class UserEntity extends BaseEntity {
 	private String mobile;
 	
 	@Enumerated(EnumType.STRING)
-	@Column(name="mu_status", nullable=false,columnDefinition="ENUM('Active','Inactive','Pending') default 'Active'")
+	@Column(name="ul_status", nullable=false,columnDefinition="ENUM('Active','Inactive','Pending') default 'Active'")
 	private Status status;
 
 
