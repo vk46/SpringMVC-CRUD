@@ -8,5 +8,5 @@ package com.vk.enumerator;
  *
  */
 public enum Status {
-	Active, Inactive, Pending
+	Active, Inactive
 }
